@@ -17,3 +17,5 @@ This project demonstrates a complete machine learning model pipeline using Pytho
 #  OUTPUT
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/17c23c37-7ebf-4790-9572-e64b3ba68787" />
+
+<img width="539" height="455" alt="Image" src="https://github.com/user-attachments/assets/1f65bbcb-aedc-41d5-bf24-2dafb10ea10c" />
